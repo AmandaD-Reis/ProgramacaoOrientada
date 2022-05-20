@@ -1,0 +1,6 @@
+Desafio 4
+Crie um programa que possa relatar o salário semanal da programadora Julieta. 
+Por motivos trabalhistas, ela pode trabalhar até 40 horas semanais, 
+se trabalhar mais horas são consideradas horas extras, cujo valor é 50% a mais que a 
+jornada normal de trabalho. 
+Ela trabalhou na última semana um número "x" de horas e o valor por semana  é de 875.
