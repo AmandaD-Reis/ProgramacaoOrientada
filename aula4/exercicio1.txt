@@ -1,0 +1,36 @@
+Objetivo
+Identifique objetos, seus atributos e responsabilidades dentro de uma declaração
+de um programa a ser executado.
+
+Exercício 1
+Devido à crise gerada pela pandemia, a confeitaria de Miguel percebeu uma diminuição
+na quantidade de itens que seus clientes compram. Ele acredita que as restrições de
+tempo o afetaram, por isso, para estudar seu negócio, precisamos fazer um registro
+das vendas realizadas.
+- Na loja, há 2 funcionários que assumem o turno da manhã - das 8h00 às 16h00 -
+e o turno da noite —de 16:00 a 24:00 hs—.
+- Os diferentes itens que são vendidos no negócio são conhecidos - o nome, o
+preço e o fornecedor são registrados para cada um.
+
+Micro desafio - Parte I
+
+2
+
+Então, quais são os objetos dentro do problema?
+1. Leia a frase cuidadosamente procurando por possíveis objetos (lembre-se de
+que os objetos geralmente são nomeados com um substantivo).
+2. Vamos pensar em cada objeto, quais são as características que representam
+seu estado atual.
+3. Cada um dos objetos tem um comportamento (geralmente é um verbo).
+Encontre todos os comportamentos de que você precisa para o programa.
+
+Micro desafio - Parte II
+Agora devemos representar nossos objetos em um diagrama que nos ajude a
+conseguirmos programar o sistema necessário no futuro:
+1. Com a ferramenta de diagramação (app.diagrams.net), você irá gerar um novo
+diagrama.
+2. Adicione um elemento de classe para cada tipo de objeto.
+3. Para cada classe, adicione todos os seus atributos e métodos
+(responsabilidades).
+
+Até a próxima!

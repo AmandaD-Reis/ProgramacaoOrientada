@@ -1,0 +1,12 @@
+Exercício 1
+Faça uma função que, dado um número, indica se é um número primo ou não. 
+Um número primo é aquele que só pode ser dividido por 1 e ele mesmo. 
+Por exemplo: 25 não é primo, pois 25 é divisível por 1, 5 e 25. 17 é primo porque 
+só pode ser dividido por 1 e por 17.
+Para usar esta função que iremos criar, podemos permitir a entrada de 
+apenas um número do usuário para verificar se o número é primo ou não.
+Para resolvê-lo, use a função obtida no exercício desenvolvido na aula assíncrona,
+ Boolean eDivisível (int n, int divisor).
+Escreva uma função que receba três números e retorne o maior valor entre os três números.
+ Em seguida, faça um programa que permita a entrada de 3 valores pelo usuário, use a função 
+ e exiba o resultado.
